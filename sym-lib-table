@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name ubitx_panel-rescue)(type Legacy)(uri ${KIPRJMOD}/ubitx_panel-rescue.lib)(options "")(descr ""))
+  (lib (name ubitx_panel)(type Legacy)(uri ${KIPRJMOD}/project_components/ubitx_panel.lib)(options "")(descr ""))
+  (lib (name SJ1-42536-SMT)(type Legacy)(uri ${KIPRJMOD}/project_components/SJ1-42536-SMT.lib)(options "")(descr ""))
+  (lib (name SJ-43515TS)(type Legacy)(uri ${KIPRJMOD}/project_components/SJ-43515TS.lib)(options "")(descr ""))
+  (lib (name 35RAPC4BH3)(type Legacy)(uri ${KIPRJMOD}/switchcraft_audio_3.5mm_35RAPC4BH3/35RAPC4BH3.lib)(options "")(descr ""))
+  (lib (name rotary_encoder_switch_acb45)(type Legacy)(uri ${KIPRJMOD}/project_components/rotary_encoder_switch_acb45.lib)(options "")(descr ""))
+)

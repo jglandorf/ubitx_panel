@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAT24C32
+D I2C Serial EEPROM 32Kb
+K EEPROM Serial
+$ENDCMP
+#
+$CMP DMG2305UX
+D Transistor P-MOSFET
+K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
+$CMP DMMT5401
+D PNP Matched Transistor Pair
+K PNP Matched Transistor
+$ENDCMP
+#
+$CMP Hole_3mm_PTH
+D 3mm PTH for Pi HAT
+K Pi HAT Mounting Holes
+$ENDCMP
+#
+$CMP PI40HAT
+D OX40 Raspberry Pi HAT Connector
+K RPI HAT
+$ENDCMP
+#
+$CMP SJ1-2515-SMT
+D audio connector 2.5mm TR CUI
+K audio connector 2.5mm TR CUI
+$ENDCMP
+#
+$CMP 35RAPC4BH3
+D audio connector 3.5mm TR Switchcraft
+K audio connector 3.5mm TR Switchcraft
+$ENDCMP
+#
+#End Doc Library

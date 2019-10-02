@@ -1,0 +1,86 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+CUI_SJ1-2515-SMT
+$EndINDEX
+$MODULE CUI_SJ1-2515-SMT
+Po 0 0 0 15 00000000 00000000 ~~
+Li CUI_SJ1-2515-SMT
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -0.51048 -8.65328 1.00096 1.00096 0 0.05 N V 21 "CUI_SJ1-2515-SMT"
+T1 0.38534 7.66202 1.00091 1.00091 0 0.05 N V 21 "VAL**"
+DS -3 -4.5 -1.67 -4.5 0.127 21
+DS 6.03 -4.5 7 -4.5 0.127 21
+DS 7 -4.5 7 4.5 0.127 21
+DS 7 4.5 5.98 4.5 0.127 21
+DS -0.48 4.5 -3 4.5 0.127 21
+DS -3 4.5 -3 -4.5 0.127 21
+DS -3 -4.5 7 -4.5 0.127 24
+DS 7 -4.5 7 4.5 0.127 24
+DS 7 4.5 -3 4.5 0.127 24
+DS -3 4.5 -3 -4.5 0.127 24
+DS -3.25 -6.95 7.25 -6.95 0.05 26
+DS 7.25 -6.95 7.25 6.95 0.05 26
+DS 7.25 6.95 -3.25 6.95 0.05 26
+DS -3.25 6.95 -3.25 -6.95 0.05 26
+DC -0.1 -7.4 0 -7.4 0.2 21
+DC -0.1 -7.4 0 -7.4 0.2 24
+$PAD
+Sh "Hole" C 1.6 1.6 0 0 0
+Dr 1.6 0 0
+At HOLE N 00E0FFFF
+Po 0 0
+$EndPAD
+$PAD
+Sh "Hole" C 1.6 1.6 0 0 0
+Dr 1.6 0 0
+At HOLE N 00E0FFFF
+Po 5 0
+$EndPAD
+$PAD
+Sh "1" R 2.4 2.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.2 -5.35
+$EndPAD
+$PAD
+Sh "11" R 1.7 2.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 2.4 -5.35
+$EndPAD
+$PAD
+Sh "3" R 2 2.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.75 -5.35
+$EndPAD
+$PAD
+Sh "10" R 2.4 2.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1 5.35
+$EndPAD
+$PAD
+Sh "2" R 2.4 2.7 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.5 5.35
+$EndPAD
+$EndMODULE CUI_SJ1-2515-SMT

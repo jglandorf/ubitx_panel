@@ -1,0 +1,403 @@
+Cmp-Mod V01 Created by PcbNew   date = Monday, September 03, 2018 'PMt' 08:02:38 PM
+
+BeginCmp
+TimeStamp = 5AE930D1
+Path = /5ADD2648
+Reference = L20;
+ValeurCmp = 560nH;
+IdModule  = Inductors_THT:L_Axial_L7.0mm_D3.3mm_P10.16mm_Horizontal_Fastron_MICC;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E3B082
+Path = /5834BC4A
+Reference = H1;
+ValeurCmp = 3mm_Mounting_Hole;
+IdModule  = project_footprints:NPTH_3mm_ID;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E3B086
+Path = /5834BCDF
+Reference = H2;
+ValeurCmp = 3mm_Mounting_Hole;
+IdModule  = project_footprints:NPTH_3mm_ID;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE92F8B
+Path = /5ADD2642
+Reference = C20;
+ValeurCmp = 220nF;
+IdModule  = Capacitors_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE92F9F
+Path = /5ADD264E
+Reference = C21;
+ValeurCmp = 330nF;
+IdModule  = Capacitors_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE92FB3
+Path = /5ADE9D6A
+Reference = C22;
+ValeurCmp = 220nF;
+IdModule  = Capacitors_THT:C_Disc_D6.0mm_W4.4mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE93050
+Path = /5ADDCEFD
+Reference = J6;
+ValeurCmp = TEST_1P;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE93077
+Path = /5ADD4209
+Reference = J8;
+ValeurCmp = TEST_1P;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE930AD
+Path = /5ADCFD96
+Reference = L10;
+ValeurCmp = 1uH;
+IdModule  = Inductors_THT:L_Axial_L11.0mm_D4.5mm_P5.08mm_Vertical_Fastron_MECC;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE930BB
+Path = /5ADEB0D5
+Reference = L11;
+ValeurCmp = 1uH;
+IdModule  = Inductors_THT:L_Axial_L11.0mm_D4.5mm_P5.08mm_Vertical_Fastron_MECC;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE930E7
+Path = /5ADEB655
+Reference = L21;
+ValeurCmp = 560nH;
+IdModule  = Inductors_THT:L_Axial_L7.0mm_D3.3mm_P10.16mm_Horizontal_Fastron_MICC;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE931D5
+Path = /5AE0340F
+Reference = L1;
+ValeurCmp = 1uH;
+IdModule  = Inductors_THT:L_Axial_L11.0mm_D4.5mm_P5.08mm_Vertical_Fastron_MECC;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AEA2B05
+Path = /5ADD11F1
+Reference = J10;
+ValeurCmp = Screw_Terminal_1x03;
+IdModule  = Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MKDS1.5-3pol;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADFD5CD
+Path = /5ADFE838
+Reference = H3;
+ValeurCmp = 3mm_Mounting_Hole_Unlocked;
+IdModule  = project_footprints:NPTH_3mm_ID_Unlocked;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADFD5D2
+Path = /5ADFEA5D
+Reference = H4;
+ValeurCmp = 3mm_Mounting_Hole_Unlocked;
+IdModule  = project_footprints:NPTH_3mm_ID_Unlocked;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADFDF22
+Path = /5AE0008C
+Reference = J71;
+ValeurCmp = TEST_1P;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADFDF35
+Path = /5AE0011F
+Reference = J72;
+ValeurCmp = TEST_1P;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ADFDF48
+Path = /5AE00C39
+Reference = J91;
+ValeurCmp = TEST_1P;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE4B44E
+Path = /5AE121CD
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE4B474
+Path = /5AE128A5
+Reference = R1;
+ValeurCmp = 270;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE7DAD0
+Path = /5AE15C2F
+Reference = TP1;
+ValeurCmp = TEST_1P;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE7DAE2
+Path = /5AE15CBC
+Reference = TP2;
+ValeurCmp = TEST_1P;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE7DAF4
+Path = /5AE17F98
+Reference = TP11;
+ValeurCmp = TEST_1P;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE7DB06
+Path = /5AE18054
+Reference = TP12;
+ValeurCmp = TEST_1P;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE7DB2A
+Path = /5AE19997
+Reference = TP31;
+ValeurCmp = TEST_1P;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9440F
+Path = /5AE1C861
+Reference = J2;
+ValeurCmp = DNP;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFF65F4
+Path = /5AE04AC6
+Reference = J1;
+ValeurCmp = CONN_02X07;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x07_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFF6BFE
+Path = /5AE27DB0
+Reference = R2;
+ValeurCmp = 47;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFF7B95
+Path = /5AE00B17
+Reference = J92;
+ValeurCmp = TEST_1P;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B05D2D0
+Path = /5AE4C705
+Reference = J3;
+ValeurCmp = DNP;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x13_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B08E651
+Path = /5AE4E9F8
+Reference = FID10;
+ValeurCmp = CIRCLE1mmDia;
+IdModule  = Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B08E78B
+Path = /5AE4F0E8
+Reference = FID11;
+ValeurCmp = CIRCLE1mmDia;
+IdModule  = Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B08E7F7
+Path = /5AE4F224
+Reference = FID20;
+ValeurCmp = CIRCLE1mmDia;
+IdModule  = Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B08E7FD
+Path = /5AE4F3EA
+Reference = FID21;
+ValeurCmp = CIRCLE1mmDia;
+IdModule  = Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF43349
+Path = /5ADCE5F5
+Reference = T1;
+ValeurCmp = MABA-009488-61HWCA - 125mW;
+IdModule  = project_footprints:SO-BALUN-5_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF43EAC
+Path = /5AEE15EA
+Reference = R3;
+ValeurCmp = DNP;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B425BF9
+Path = /5B425A6C
+Reference = TP0;
+ValeurCmp = TEST_1P;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B42D753
+Path = /5ADCB8DF
+Reference = C1;
+ValeurCmp = 18nF;
+IdModule  = Capacitors_THT:C_Rect_L4_W2.5_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B432FFF
+Path = /5B42AE85
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_THT:C_Rect_L4_W2.5_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B43E64C
+Path = /5B8DEFA2
+Reference = J41;
+ValeurCmp = TEST_1P;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B43E65F
+Path = /5B8DF13E
+Reference = J42;
+ValeurCmp = TEST_1P;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B43E672
+Path = /5B42F44A
+Reference = J43;
+ValeurCmp = TEST_1P;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B43E685
+Path = /5B42ECE4
+Reference = J44;
+ValeurCmp = TEST_1P;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B8DCD0C
+Path = /5B42BA85
+Reference = C10;
+ValeurCmp = 430pF;
+IdModule  = project_footprints:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B8DCD1B
+Path = /5ADCFE16
+Reference = C11;
+ValeurCmp = 680pF;
+IdModule  = project_footprints:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B8DCD2A
+Path = /5ADE8B29
+Reference = C12;
+ValeurCmp = 430pF;
+IdModule  = project_footprints:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B8DCD39
+Path = /5B431F10
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B8DCD58
+Path = /5B8EAE65
+Reference = R4;
+ValeurCmp = DNP;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B8DCD68
+Path = /5B8EA263
+Reference = R5;
+ValeurCmp = 47;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B8DDD6E
+Path = /5B8DF800
+Reference = U1;
+ValeurCmp = ZXMN6A07Z;
+IdModule  = project_footprints:SOT89-3_MOSFET;
+EndCmp
+
+EndListe

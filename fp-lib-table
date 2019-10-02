@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name project_footprints)(type KiCad)(uri "$(KIPRJMOD)/project_footprints.pretty")(options "")(descr ""))
+  (lib (name 35RAPC4BH3)(type Legacy)(uri "$(KIPRJMOD)/switchcraft_audio_3.5mm_35RAPC4BH3/35RAPC4BH3.mod")(options "")(descr ""))
+  (lib (name SJ1-2515-SMT)(type Legacy)(uri "$(KIPRJMOD)/project_footprints.pretty/SJ1-2515-SMT.mod")(options "")(descr ""))
+  (lib (name SJ1-42516-SMT)(type Legacy)(uri "$(KIPRJMOD)/project_footprints.pretty/SJ1-42516-SMT.mod")(options "")(descr ""))
+  (lib (name SJ-43515TS)(type Legacy)(uri "$(KIPRJMOD)/datasheets/audio-jack_3.5mm_trrs_cui_SJ-43515TS/SJ-43515TS.mod")(options "")(descr ""))
+  (lib (name SJ1-42536-SMT)(type Legacy)(uri "$(KIPRJMOD)/datasheets/audio-jack_2.5mm_trrs_smt_cuiSJ1-42536-SMT/SJ1-42536-SMT.mod")(options "")(descr ""))
+)
