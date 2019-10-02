@@ -10,6 +10,6 @@ The [µBITX](http://www.hfsignals.com/index.php/ubitx/) is "The QRP HF General C
 See [docs/ubitx_panel_usage.pdf](docs/ubitx_panel_usage.pdf) for a complete description.  
 Used successfully for the [Arrow Communications Assn.](https://w8rp.org/) uBitx build sessions.  
 ![uBitx_panel](/docs/uBitx_panel.jpg)  
-![uBitx_panel2](/docs/uBitx_panel2.jpg)  
+![uBitx_panel2](/docs/ubitx_panel2.jpg)  
 73
 Joe, AC8ES
